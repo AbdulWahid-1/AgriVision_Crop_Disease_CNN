@@ -1,0 +1,34 @@
+names:
+- Cherry leaf
+- Peach leaf
+- Corn leaf blight
+- Apple rust leaf
+- Potato leaf late blight
+- Strawberry leaf
+- Corn rust leaf
+- Tomato leaf late blight
+- Tomato mold leaf
+- Potato leaf early blight
+- Apple leaf
+- Tomato leaf yellow virus
+- Blueberry leaf
+- Tomato leaf mosaic virus
+- Raspberry leaf
+- Tomato leaf bacterial spot
+- Squash Powdery mildew leaf
+- grape leaf
+- Corn leaf
+- Tomato early blight leaf
+- grape leaf black rot
+- Potato leaf
+- Tomato Septoria leaf spot
+- Tomato leaf
+- Soybean leaf
+- Bell_pepper leaf spot
+- Bell_pepper leaf
+- Apple Scab Leaf
+- Tomato two spotted spider mites leaf
+nc: 29
+path: C:\Users\Owner\Downloads\Github\AgriVision-Crop-Disease-CNN
+train: images\train
+val: images\val
