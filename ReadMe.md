@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22904760.svg)](https://doi.org/10.5281/zenodo.22904760)
+
 # AgriVision: End-to-End Plant Pathology & Crop Disease Detection System
 
 An enterprise-grade computer vision pipeline built with **Ultralytics YOLOv8**, engineered for real-time plant disease detection and localized pathology tracking across 29 distinct agricultural classes.
